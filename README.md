@@ -7,6 +7,7 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [Decoding AP Computer Science A](https://www.udemy.com/decoding-ap-computer-science-a/)
 * [Windows 10 Programming for Absolute Beginners](https://www.udemy.com/windows-10-for-absolute-beginners/)
 * [Java for Noobs: Go from Noob to Semi-Noob](https://www.udemy.com/java-for-noobs-go-from-noob-to-semi-noob-noob-coder/)
+* [Learn Python, it's CAKE](https://www.udemy.com/learning-python-not-the-snake/)
 
 ## Mobile Programming
 * [Become an Android Developer from Scratch](https://www.udemy.com/become-an-android-developer-from-scratch/)
@@ -14,7 +15,8 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [iOS9 Apple Watch Toolkit: Make Real Apps From Scratch](https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/)
 * [Become an iOS Developer from Scratch](https://www.udemy.com/the-art-of-real-ios-programming/)
 * [Rapid Prototyping with Ionic: Build a Data-Driven Mobile App](https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/)
-* [Rapid Prototyping with Ionic: Build a Data-Driven Mobile App](https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/)
+* [Android 4.0 for Java](https://www.udemy.com/android-tutorial/)
+
 
 ## Web Design / Development
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
@@ -26,12 +28,14 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [Learn Bootstrap3 With Multi Purposes Single Page Layout](https://www.udemy.com/single-page-layout-with-bootstrap/)
 * [WordPress for Beginners: Create Professional Websites Use](https://www.udemy.com/wordpress-101/)
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/)
+* [AngularJS Essentials](https://www.udemy.com/angular-js-crash-course/)
 
 ## NoSQL / SQL
 * [Database Design](https://www.udemy.com/database-design/)
-* [Database Design](https://www.udemy.com/marklogic-fundamentals/)
+* [Database Design (MarkLogic)](https://www.udemy.com/marklogic-fundamentals/)
 * [Semantics and the MarkLogic NoSQL Database](https://www.udemy.com/semantics/)
 * [Building XQuery Apps with the MarkLogic NoSQL Database](https://www.udemy.com/marklogic-nosql-xquery/)
+* [Database Design with ]
 
 ## Data
 * [Hadoop Starter Kit](https://www.udemy.com/hadoopstarterkit/)
@@ -39,7 +43,7 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [Setup Big Data Development Environment](https://www.udemy.com/setup-big-data-development-environment/)
 * [Big data Internship Program - Foundation](https://www.udemy.com/big-data-internship-program-part-1-foundation/)
 
-## DevOps, Testing, Automation (aka Misc)
+## Operations, DevOps
 * [Learn Burp Suite, the Nr. 1 Web Hacking Tool](https://www.udemy.com/burp-suite/)
 * [Linux Command Line Basics](https://www.udemy.com/linux-command-line-volume1/)
 * [Selenium WebDriver Training with Java Basics](https://www.udemy.com/selenium-training/)
