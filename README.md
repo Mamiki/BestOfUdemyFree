@@ -38,6 +38,7 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn Basics of CSS3 From Scratch With Projects](https://www.udemy.com/learn-basics-of-css3-from-scratch/)
 * [Learn Bootstrap3 With Multi Purposes Single Page Layout](https://www.udemy.com/single-page-layout-with-bootstrap/)
+* [Search Engine Optimization for Business](https://www.udemy.com/search-engine-optimization-for-business/)
 
 ## Database Design and Management
 * [Database Design](https://www.udemy.com/database-design/)
