@@ -17,7 +17,7 @@ You don't have to spend money to get quality courses on Udemy. Below is a list I
 * [iOS9 Apple Watch Toolkit: Make Real Apps From Scratch](https://www.udemy.com/the-complete-apple-watch-course-make-real-apps-from-scratch/)
 * [Become an iOS Developer from Scratch](https://www.udemy.com/the-art-of-real-ios-programming/)
 * [Rapid Prototyping with Ionic: Build a Data-Driven Mobile App](https://www.udemy.com/learn-ionic-framework-build-a-stock-market-mobile-app/)
-* [Android 4.0 for Java](https://www.udemy.com(/android-tutorial/)
+* [Android 4.0 for Java](https://www.udemy.com/android-tutorial/)
 * [Android Processes, Threads Slidenerd Stlye](https://www.udemy.com/master-android-zero-to-hero/)
 
 
